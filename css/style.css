@@ -1,0 +1,151 @@
+body{
+        margin: 0px;
+    text-align: center;
+    font-family: 'MuseoModerno', cursive, sans-serif;
+}
+h1{
+    color: #1faad8;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Parisienne', cursive, sans-serif;
+}
+h2{
+    color: #1faad8;
+    font-family: 'Sriracha', cursive;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h3{
+    color: #0580a8;
+    font-family: 'Sriracha', cursive;
+}
+p{
+    line-height: 2;
+}
+
+hr{
+    border: dotted #0580a8 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+a{
+    color: #1faad8;
+    font-family: 'Sriracha', cursive;
+    margin: 0px 10px;
+    text-decoration: none;
+}
+a:hover{
+    color: aliceblue;
+}
+
+.top-container{
+    background-color: #a5e6fc;
+    position: relative;
+    padding-top : 100px;
+    
+}
+.middle-container{
+    position: relative;
+    margin: 100px 0;
+}
+.skill-row{
+    position: relative;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.contact-me{
+    position: relative;
+}
+.cnt_msg{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.bottom-container{
+    background-color: #89d5ee;
+    padding: 50px 0 20px;
+}
+.copyright{
+    color: aliceblue;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.topb{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.middleb{
+    position: absolute;
+    left: 200px;
+    bottom: 300px;
+}
+.jelly{
+    position: absolute;
+    left: 400px;
+    top: 90px;
+}
+.pfish{
+    position: absolute;
+    right: 250px;
+    top: 50px;
+}
+.octopus{
+    position: absolute;
+    right: 500px;
+    top: 380px;
+}
+.estar{
+    position: absolute;
+    left: 400px;
+    bottom:80px ;
+}
+.b1{
+    position: absolute;
+    right: 80px;
+    bottom:20px ;
+}
+.eye{
+    float: left;
+    width: 20%;
+    margin-right: 30px;
+}
+.target{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+.btn {
+    background: #37a0e6;
+    background-image: -webkit-linear-gradient(top, #37a0e6, #0f8cd9);
+    background-image: -moz-linear-gradient(top, #37a0e6, #0f8cd9);
+    background-image: -ms-linear-gradient(top, #37a0e6, #0f8cd9);
+    background-image: -o-linear-gradient(top, #37a0e6, #0f8cd9);
+    background-image: linear-gradient(to bottom, #37a0e6, #0f8cd9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Sriracha', cursive;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #66bff7;
+    background-image: -webkit-linear-gradient(top, #66bff7, #78bae6);
+    background-image: -moz-linear-gradient(top, #66bff7, #78bae6);
+    background-image: -ms-linear-gradient(top, #66bff7, #78bae6);
+    background-image: -o-linear-gradient(top, #66bff7, #78bae6);
+    background-image: linear-gradient(to bottom, #66bff7, #78bae6);
+    text-decoration: none;
+  }
